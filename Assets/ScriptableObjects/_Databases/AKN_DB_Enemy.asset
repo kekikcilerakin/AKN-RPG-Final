@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 979c3fe6b4a8db64485bb2db82f6e7db, type: 3}
+  m_Name: AKN_DB_Enemy
+  m_EditorClassIdentifier: 
+  plainEnemies:
+  - {fileID: 11400000, guid: 826c306ca76e1554a8415a68270e0803, type: 2}
+  - {fileID: 11400000, guid: 3151af3ee5565a44c849afff7fdbfa49, type: 2}
+  - {fileID: 11400000, guid: 0e1152388232e3643973b413c0687803, type: 2}
+  - {fileID: 11400000, guid: bcc51af9ed1822f4484d653a80d7a587, type: 2}
+  - {fileID: 11400000, guid: 7a04063811052a24d94a855bcedb258a, type: 2}
+  - {fileID: 11400000, guid: 64c5fd674d40c8c43a078cb49c7d4912, type: 2}
+  - {fileID: 11400000, guid: 933c84c5949e1a14b83ff5b131b17c64, type: 2}
+  roadEnemies: []
+  desertEnemies: []
+  forestEnemies: []
+  mountainEnemies: []

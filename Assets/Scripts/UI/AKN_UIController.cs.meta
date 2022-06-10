@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b6bd86abf69388a419229da8a6ab5e7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCanvas: {instanceID: 0}
+  - dialoguePanel: {instanceID: 0}
+  - sentencePanel: {instanceID: 0}
+  - choicePanel: {instanceID: 0}
+  - sentenceText: {instanceID: 0}
+  - tooltip: {instanceID: 0}
+  - interactPanel: {instanceID: 0}
+  - activityPanel: {instanceID: 0}
+  - activityButtonPrefab: {instanceID: 0}
+  - interactButton: {instanceID: 0}
+  - noneIcon: {fileID: 21300000, guid: 62dd20e81bd113d4e84a22289ba99c78, type: 3}
+  - forestIcon: {fileID: 21300000, guid: 26d46b5ebcb575a4ca459494af3b3f53, type: 3}
+  - mountainIcon: {fileID: 21300000, guid: c93fdff49a22c28418cef2da090e192a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
