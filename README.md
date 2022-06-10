@@ -1,6 +1,6 @@
 # Unity Project RPG
 
-# Dialogue Systen
+# Dialogue System
 <img src="Dialogue.gif" width="270" height="480"/>
 
 # Turn Based Combat
