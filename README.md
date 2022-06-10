@@ -1,10 +1,10 @@
 # Unity Project RPG
 
 # Dialogue Systen
-![Dialogue-Systen](https://github.com/kekikcilerakin/AKN-RPG-Final/blob/main/Dialogue.gif)
+<img src="Dialogue.gif" width="270" height="480"/>
 
 # Turn Based Combat
-![Turn-Based-Combat](https://github.com/kekikcilerakin/AKN-RPG-Final/blob/main/Turn-Based-Combat.gif)
+<img src="Turn-Based-Combat.gif" width="270" height="480"/>
 
 # Gameplay
-![Gameplay](https://github.com/kekikcilerakin/AKN-RPG-Final/blob/main/Gameplay.gif)
+<img src="Gameplay.gif" width="270" height="480"/>
